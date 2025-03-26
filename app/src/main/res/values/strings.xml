@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="name">Name</string>
+    <string name="designation">Designation</string>
+    <string name="todo">TODO</string>
+    <string name="ayush_saini">Ayush Saini</string>
+    <string name="app_developer">App Developer</string>
+    <string name="education">Education</string>
+    <string name="skills">SKILLS</string>
+    <string name="achievements">ACHIEVEMENTS</string>
+    <string name="android_app_developer">Android App Developer</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="this_is_skills_activity">This is skills activity</string>
+    <string name="this_is_education_activity">This is education activity</string>
+    <string name="this_is_achivements_activity">This is achivements activity</string>
+    <string name="education_details">EDUCATION DETAILS</string>
+    <string name="todo1">TODO</string>
+    <string name="ignore">TODO</string>
+</resources>
